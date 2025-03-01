@@ -18,7 +18,22 @@ A fully functional spreadsheet web application that mimics Google Sheets, built 
 - **Backend:** Node.js, Express.js, MongoDB
 - **Database:** MongoDB Atlas
 - **Deployment:** Vercel (Frontend), Railway (Backend)
-- **State Management:** Redux Toolkit
+- **State Management:** Redux Toolkit 🔬 Testing
+Frontend: npm test (Jest + React Testing Library)
+Backend: npm run test (Mocha + Chai)
+API Testing: Use Postman to test endpoints
+🔒 Security Enhancements
+✅ JWT Authentication for secured API access
+✅ Input validation to prevent SQL/NoSQL injections
+✅ HTTPS enforcement for secure connections
+⚡ Performance Optimizations
+✅ Lazy loading for improved speed
+✅ Gzip compression enabled
+✅ Database indexing for faster queries
+🚀 Deployment
+Frontend: Deployed on Vercel → Live Demo
+Backend: Deployed on Railway → API Docs
+Database: Hosted on MongoDB Atlas
 
 ## 📖 Installation & Setup
 ### 1️⃣ Clone the repository
