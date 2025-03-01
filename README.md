@@ -23,5 +23,5 @@ A fully functional spreadsheet web application that mimics Google Sheets, built 
 ## 📖 Installation & Setup
 ### 1️⃣ Clone the repository
 ```sh
-git clone https://github.com/your-username/spreadsheet-clone.git
+git clone https://github.com/Greeshmalikithareddy2004/spreadsheet-clone.git
 cd spreadsheet-clone
