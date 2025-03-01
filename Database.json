@@ -1,0 +1,10 @@
+{
+  "_id": "spreadsheet_id",
+  "name": "Sheet1",
+  "data": [
+    {"A1": "10", "B1": "=SUM(A1:A3)"},
+    {"A2": "20", "B2": "=AVERAGE(A1:A3)"},
+    {"A3": "30", "B3": "Text Example"}
+  ],
+  "createdAt": "2025-03-01T12:00:00Z"
+}
